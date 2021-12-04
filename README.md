@@ -1,5 +1,5 @@
 ### Hi, I am Jack 👋
-### Check out my personal website [here](wylin94.github.io), and let's connect!
+### Check out my personal website [here](https://wylin94.github.io/), and let's connect!
 
 <!--
 **wylin94/wylin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
