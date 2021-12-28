@@ -49,17 +49,15 @@ When I am not coding, you can find me at weddings flexing my creative muscle wit
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wylin94&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=wylin94&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98.5%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wylin94&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wylin94&hide_border=true&layout=compact" align="left" style="width: 98.5%" />
 
 </td></tr></table>  
 
 <br/>  
-
-  
 
 <br/>  
 
