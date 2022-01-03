@@ -5,9 +5,9 @@
 <a href="https://linkedin.com/in/wylin94" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/wylin94" target="_blank">
+<!-- <a href="https://www.facebook.com/wylin94" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
   
 ### Glad to see you here!  
 I am a software engineer with a CPA license, and a photographer's eye. I have experience building dynamic full stack web application using JavaScript, Python, React / Redux, HTML / CSS, SQLAlchemy, Flask, Node, and Express. I love building projects that combine features with intuitive, beautiful and clean design.
